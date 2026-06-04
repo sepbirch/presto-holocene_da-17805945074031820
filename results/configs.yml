@@ -1,0 +1,56 @@
+presto_config:
+  age_range_model:
+    value: '[0, 22000]'
+  age_range_to_reconstruct:
+    value: '[2500, 5500]'
+  assign_seasonality:
+    value: 'False'
+  assimate_together:
+    value: 'True'
+  assimilate_selected_archives:
+    value: '[''Borehole'', ''Coral'', ''FluvialSediment'', ''GlacierIce'', ''GroundIce'',
+      ''LakeSediment'', ''MarineSediment'', ''Midden'', ''MolluskShell'', ''Other'',
+      ''Peat'', ''Sclerosponge'', ''Shoreline'', ''Speleothem'', ''TerrestrialSediment'',
+      ''Wood'']'
+  assimilate_selected_region:
+    value: '[48, 78, 109, 174]'
+  assimilate_selected_resolution:
+    value: 'False'
+  assimilate_selected_seasons:
+    value: '[''annual'', ''summerOnly'', ''winterOnly'']'
+  change_uncertainty:
+    value: 'False'
+  data_dir:
+    value: /
+  exp_name:
+    value: default
+  localization_radius:
+    value: None
+  maximum_resolution:
+    value: '200'
+  model_processing:
+    value: None
+  models_for_prior:
+    value: '[''hadcm3_regrid'', ''trace_regrid'']'
+  percent_of_prior:
+    value: '100'
+  percent_to_assimilate:
+    value: '100'
+  prior_mean_always_0:
+    value: 'False'
+  prior_window:
+    value: '5200'
+  proxy_datasets_to_assimilate:
+    value: '[''temp12k'']'
+  reconstruction_type:
+    value: relative
+  reference_period:
+    value: '[3000, 5000]'
+  seed_for_prior:
+    value: '0'
+  seed_for_proxy_choice:
+    value: '0'
+  time_resolution:
+    value: '10'
+  vars_to_reconstruct:
+    value: '[''tas'']'
