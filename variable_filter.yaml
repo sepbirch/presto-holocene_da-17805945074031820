@@ -1,0 +1,88 @@
+# Variable filter decisions from the Presto data cleaning page.
+# Generated automatically when the user clicks Continue.
+#
+# thickness:annual     = varve thickness rows with median resolution <= 1 yr
+# thickness:nonannual  = all other thickness rows
+#
+excluded_variable_keys:
+  - age
+  - year
+  - depth
+  - depthtop
+  - depthbottom
+  - juliandate
+  - duration
+  - uncertainty
+  - uncertaintyhigh
+  - uncertaintylow
+  - uncertainty1s
+  - uncertainty2s
+  - uncertaintyhigh95
+  - uncertaintylow95
+  - arstan
+  - rbar
+  - eps
+  - correlationcoefficient
+  - segmentlength
+  - samplecount
+  - residualchronology
+  - correction
+  - sampleid
+  - core
+  - notes
+  - hashiatus
+  - hasgap
+  - composite
+  - needstobechanged
+  - count
+  - pc1
+  - cca1
+  - thickness:nonannual
+  - numberofsamples
+  - standarddeviation
+  - standarderror
+included_variable_keys:
+  - temperature
+excluded_tsids_by_variable:
+  uncertainty:
+    - lcRvM8a5VLe3Ne7LysE
+    - lcRD4AuhjvEdbfgFz9E
+    - lcRBac6MK6c6S90dYR9
+    - lcR8hIzGd5b6il6KNC2
+    - lcR7hkm6DvaxaN7wT7O
+    - lcRlXjeqLiFkPhRAjj9
+    - lcRFwxypAHiUo9P6PEs
+    - lcRwx3C69aMazcfRlit
+    - lcRCNsbBEkt3nvsaADZ
+    - lcRTTYBn8QhuOpBorXr
+    - lcR1QE65lzYOdLC2D5R
+    - lcRD3z3zT4ebnH0Xhqq
+    - lcRoffT3WJKlD3dM31P
+    - lcRSBGTJdgreN95D704
+    - lcRTqrBhKDx4gPrMbbp
+    - lcRkO8wLG7YSaaXqk1W
+    - lcRHMVYXknvalPybT9S
+    - lcRCu2fKJ1ItEWngF0r
+    - lcRUYIAZl7vmD6tOuof
+    - lcRVjPno7HyLQjgzhFP
+    - lcR896aTj3JPsChsdBk
+    - lcRc8wAYSUr60wpzsJP
+    - lcRzWAvRJnHj6KH62qt
+    - lcRXrhwiRX7ZEmPJ23G
+    - lcRzwXw5mbM64XJhUbo
+    - lcR0NsTut5Dyrjhov2h
+    - lcRuR85Fej2AqLV9LAl
+    - lcRyYKlFHkzzGcd2Q7r
+    - lcRzLoXCSNkTVKTHkE7
+    - lcRIMn4zm5UmHPA3ahU
+    - lcRvAxy9Chp4K5OGLqh
+    - lcRoQiUJyQC5YydnidH
+    - lcRafUbJ8Iwo24ZVrmH
+    - lcRvS6nEWPqRlU9z3GZ
+    - lcRAJOmNusWlPmtHByy
+    - lcRGGemiyvdanMM9ps3
+    - lcRSbjiTrf752ecVvg8
+    - lcRUk6SGrGdFn91XDvu
+    - lcROgdcWO1AtRkuRjUR
+    - lcRIvhYF1GveH7j3xKn
+excluded_tsid_count: 40

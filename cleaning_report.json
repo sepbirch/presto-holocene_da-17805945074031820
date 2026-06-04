@@ -1,0 +1,395 @@
+{
+  "groups": [
+    {
+      "groupId": 0,
+      "records": [
+        {
+          "tsid": "RztxWNJI8Nf",
+          "dataSetName": "BlackSea(Southwest1).EPD",
+          "decision": "remove"
+        },
+        {
+          "tsid": "RQrs5Bcvt1T",
+          "dataSetName": "BlackSea(Southwest1).EPD",
+          "decision": "remove"
+        },
+        {
+          "tsid": "Rj4kXiUwMjO",
+          "dataSetName": "BlackSea(Southwest1).EPD",
+          "decision": "remove"
+        },
+        {
+          "tsid": "lcR0YvweZDlzsFvrC8p",
+          "dataSetName": "BlackSeaSouthwest1.Atanassova.1995",
+          "decision": "remove"
+        },
+        {
+          "tsid": "lcRNpnnr3sZwfql5Ge6",
+          "dataSetName": "BlackSeaSouthwest1.Atanassova.1995",
+          "decision": "remove"
+        },
+        {
+          "tsid": "lcR088rcRiLRC76nJ2o",
+          "dataSetName": "BlackSeaSouthwest1.Atanassova.1995",
+          "decision": "remove"
+        },
+        {
+          "tsid": "lcRGU5paIUn7OYbybee",
+          "dataSetName": "BlackSeaSouthwest1.Atanassova.1995",
+          "decision": "remove"
+        },
+        {
+          "tsid": "lcRKqsiUSiQIM14gfWa",
+          "dataSetName": "BlackSeaSouthwest1.Atanassova.1995",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcR2Cnk9TfjqrB3R3Ta",
+          "dataSetName": "BlackSeaSouthwest1.Atanassova.1995",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRAByeIVnTtDcb3JzS",
+          "dataSetName": "BlackSeaSouthwest1.Atanassova.1995",
+          "decision": "remove"
+        },
+        {
+          "tsid": "lcRcnWiDrD6oCMPapci",
+          "dataSetName": "BlackSeaSouthwest1.Atanassova.1995",
+          "decision": "remove"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 1,
+      "records": [
+        {
+          "tsid": "RhlRYvQBLWQ",
+          "dataSetName": "BlackSea(Southwest2).EPD",
+          "decision": "remove"
+        },
+        {
+          "tsid": "RbZ9wyKWByi",
+          "dataSetName": "BlackSea(Southwest2).EPD",
+          "decision": "remove"
+        },
+        {
+          "tsid": "RkMIcfVvIkj",
+          "dataSetName": "BlackSea(Southwest2).EPD",
+          "decision": "remove"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 2,
+      "records": [
+        {
+          "tsid": "lcRmcsjHA27Of3UprpL",
+          "dataSetName": "BlackSeaWest.Atanassova.1995",
+          "decision": "remove"
+        },
+        {
+          "tsid": "lcRtoypkAfa5mZWThTt",
+          "dataSetName": "BlackSeaWest.Atanassova.1995",
+          "decision": "remove"
+        },
+        {
+          "tsid": "lcRZexY7OJlGWUp1bwN",
+          "dataSetName": "BlackSeaWest.Atanassova.1995",
+          "decision": "remove"
+        },
+        {
+          "tsid": "lcRTnINdARCFLl23ny8",
+          "dataSetName": "BlackSeaWest.Atanassova.1995",
+          "decision": "remove"
+        },
+        {
+          "tsid": "lcR02OBq4DdAfNk1tbP",
+          "dataSetName": "BlackSeaWest.Atanassova.1995",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRbIJe4tmVEvAMXcHw",
+          "dataSetName": "BlackSeaWest.Atanassova.1995",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRbFzCEdYcMjHgz0D2",
+          "dataSetName": "BlackSeaWest.Atanassova.1995",
+          "decision": "remove"
+        },
+        {
+          "tsid": "lcRmlREtETa3cFDNBxW",
+          "dataSetName": "BlackSeaWest.Atanassova.1995",
+          "decision": "remove"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 3,
+      "records": [
+        {
+          "tsid": "lcRvjP2voUnuGFe0Z95",
+          "dataSetName": "BulgarianBlackSea.FilipovaMarinova.2014",
+          "decision": "remove"
+        },
+        {
+          "tsid": "lcRHySw0VajJcbHr8uL",
+          "dataSetName": "BulgarianBlackSea.FilipovaMarinova.2014",
+          "decision": "remove"
+        },
+        {
+          "tsid": "lcRo6yDogtbngkn4xnm",
+          "dataSetName": "BulgarianBlackSea.FilipovaMarinova.2014",
+          "decision": "remove"
+        },
+        {
+          "tsid": "lcRF2RpKBQ2I28Cn7Bp",
+          "dataSetName": "BulgarianBlackSea.FilipovaMarinova.2014",
+          "decision": "remove"
+        },
+        {
+          "tsid": "lcRlWENqHUSj1twO4we",
+          "dataSetName": "BulgarianBlackSea.FilipovaMarinova.2014",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcR9ujbKXH6Hy7Ydl18",
+          "dataSetName": "BulgarianBlackSea.FilipovaMarinova.2014",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRAfKPtGurIjDgyZ1c",
+          "dataSetName": "BulgarianBlackSea.FilipovaMarinova.2014",
+          "decision": "remove"
+        },
+        {
+          "tsid": "lcRgRIczk7fIrv8zFlf",
+          "dataSetName": "BulgarianBlackSea.FilipovaMarinova.2014",
+          "decision": "remove"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 4,
+      "records": [
+        {
+          "tsid": "RLcBkd6hOuO",
+          "dataSetName": "D13902",
+          "decision": "keep"
+        },
+        {
+          "tsid": "LPD16c5b9d8",
+          "dataSetName": "Ocn-TagusMudPatch.Abrantes.2005",
+          "decision": "keep"
+        },
+        {
+          "tsid": "GH8d2ba08f",
+          "dataSetName": "O2kLR-Tagusmudpatc.Abrantes.2005",
+          "decision": "remove"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 5,
+      "records": [
+        {
+          "tsid": "lcRIL0gnfcp9xCx3Ox8",
+          "dataSetName": "EinGedi.Litt.2012",
+          "decision": "remove"
+        },
+        {
+          "tsid": "lcRhVuBTRA3J3ZiOZ6D",
+          "dataSetName": "EinGedi.Litt.2012",
+          "decision": "remove"
+        },
+        {
+          "tsid": "lcRs48L1gzswv5pfAk5",
+          "dataSetName": "EinGedi.Litt.2012",
+          "decision": "remove"
+        },
+        {
+          "tsid": "lcR3HP9fpLC2jnTRA9R",
+          "dataSetName": "EinGedi.Litt.2012",
+          "decision": "remove"
+        },
+        {
+          "tsid": "lcRLJQDAp28iZXAhorh",
+          "dataSetName": "EinGedi.Litt.2012",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRqXRJps0N46pwFQrW",
+          "dataSetName": "EinGedi.Litt.2012",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRUmfjSnIa8hd10vb5",
+          "dataSetName": "EinGedi.Litt.2012",
+          "decision": "remove"
+        },
+        {
+          "tsid": "lcR7yGfL4ScMhyNULkD",
+          "dataSetName": "EinGedi.Litt.2012",
+          "decision": "remove"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 6,
+      "records": [
+        {
+          "tsid": "T2L_MD95_2040_uk37_SST_from_uk37",
+          "dataSetName": "MD95_2040",
+          "decision": "remove"
+        },
+        {
+          "tsid": "T2L_MD95_2040_d18o_bulloides_SST_from_d18o_bulloides",
+          "dataSetName": "MD95_2040",
+          "decision": "keep"
+        },
+        {
+          "tsid": "LPDe983f67d",
+          "dataSetName": "MD95-2040.Salguero.2014",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 7,
+      "records": [
+        {
+          "tsid": "T2L_MD95_2041_d18o_bulloides_SST_from_d18o_bulloides",
+          "dataSetName": "MD95_2041",
+          "decision": "remove"
+        },
+        {
+          "tsid": "T2L_MD95_2041_d18o_ruber_SST_from_d18o_ruber",
+          "dataSetName": "MD95_2041",
+          "decision": "remove"
+        },
+        {
+          "tsid": "T2L_MD95_2041_d18o_pachyderma_d_SST_from_d18o_pachyderma_d",
+          "dataSetName": "MD95_2041",
+          "decision": "remove"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 8,
+      "records": [
+        {
+          "tsid": "T2L_MD95_2043_d18o_bulloides_SST_from_d18o_bulloides",
+          "dataSetName": "MD95_2043.Cacho.1999",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRxJnnnsH6fMN6e625",
+          "dataSetName": "MD952043.Fletcher.2008",
+          "decision": "remove"
+        },
+        {
+          "tsid": "lcRJCJ0yKLSpCe1Vofa",
+          "dataSetName": "MD952043.Fletcher.2008",
+          "decision": "remove"
+        },
+        {
+          "tsid": "lcRLGQRl5Gz0e9hyVsw",
+          "dataSetName": "MD952043.Fletcher.2008",
+          "decision": "remove"
+        },
+        {
+          "tsid": "lcRaCPQdhjPKkA5pUOm",
+          "dataSetName": "MD952043.Fletcher.2008",
+          "decision": "remove"
+        },
+        {
+          "tsid": "lcRo248I3kjlcDEt00h",
+          "dataSetName": "MD952043.Fletcher.2008",
+          "decision": "remove"
+        },
+        {
+          "tsid": "lcR1PHDiQJiGbeTPAHS",
+          "dataSetName": "MD952043.Fletcher.2008",
+          "decision": "remove"
+        },
+        {
+          "tsid": "T2L_MD95_2043_uk37_SST_from_uk37",
+          "dataSetName": "MD95_2043.Cacho.1999",
+          "decision": "keep"
+        },
+        {
+          "tsid": "T2L_MD95_2043_mgca_bulloides_SST_from_mgca_bulloides",
+          "dataSetName": "MD95_2043.Cacho.1999",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRmpvM4bgTSI5gDuuk",
+          "dataSetName": "MD952043.Fletcher.2008",
+          "decision": "keep"
+        },
+        {
+          "tsid": "lcRZAtGPOLfD0AlvjmE",
+          "dataSetName": "MD952043.Fletcher.2008",
+          "decision": "keep"
+        },
+        {
+          "tsid": "GH8f679b6d",
+          "dataSetName": "MD952043",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 9,
+      "records": [
+        {
+          "tsid": "T2L_MD99_2339_d18o_bulloides_SST_from_d18o_bulloides",
+          "dataSetName": "MD99_2339.Eynaud.2009",
+          "decision": "keep"
+        },
+        {
+          "tsid": "T2L_MD99_2339_d18o_ruber_SST_from_d18o_ruber",
+          "dataSetName": "MD99_2339.Eynaud.2009",
+          "decision": "remove"
+        },
+        {
+          "tsid": "T2L_MD99_2339_d18o_pachyderma_d_SST_from_d18o_pachyderma_d",
+          "dataSetName": "MD99_2339.Eynaud.2009",
+          "decision": "remove"
+        }
+      ],
+      "notes": "removed by exact duplicate detection"
+    },
+    {
+      "groupId": 10,
+      "records": [
+        {
+          "tsid": "LPDd2e3a924",
+          "dataSetName": "TTR-12_293G.Rodrigo-Gamiz.2014",
+          "decision": "keep"
+        },
+        {
+          "tsid": "WEB-d22c0-cc72-4539-a255-028c2",
+          "dataSetName": "TTR12_293G.Rodrigo-Gamiz.2014",
+          "decision": "remove"
+        },
+        {
+          "tsid": "LPDd23545f9",
+          "dataSetName": "TTR-12_293G.Rodrigo-Gamiz.2014",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    }
+  ]
+}
